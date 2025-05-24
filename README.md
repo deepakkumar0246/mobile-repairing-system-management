@@ -1,4 +1,4 @@
-# Mobile-Phone-Shop-Management-System
+# Mobile-Reparing-System-Management
 
 This application handle a large amount of data about suppliers, stock , sales , employees , pre orders and inventory.
 This management system for suppliers , management system for sales, management system for employees , management system
