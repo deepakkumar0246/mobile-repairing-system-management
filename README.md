@@ -14,6 +14,13 @@ Key Features
  * Provide the ability to handle and keep track of pre mobile orders from customer.
  * Provide the ability to handle daily sales and to get report about process easily.
  * Provide POS system for handle customers.
+ * Technical Highlights & Implementation Details
+✅ Core Feature Implementation
+All core functionalities were carefully implemented as per the outlined requirements. These include:
+
+Customer module with automatic discount logic
+
+Employee and Salary management with role-based salary processing
 
 Technology stack
 
